@@ -1,0 +1,10 @@
+.text{
+    color:#0e172c;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    background-color:#c3f0ca;
+    text-align: center;
+    height: 1200px;
+}
